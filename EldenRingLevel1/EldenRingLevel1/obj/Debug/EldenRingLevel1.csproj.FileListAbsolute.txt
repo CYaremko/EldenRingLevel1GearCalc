@@ -1,0 +1,15 @@
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\bin\Debug\EldenRingLevel1.exe.config
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\bin\Debug\EldenRingLevel1.exe
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\bin\Debug\EldenRingLevel1.pdb
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.csproj.AssemblyReference.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.GearCalc.resources
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.Properties.Resources.resources
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.csproj.GenerateResource.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.csproj.CoreCompileInputs.cache
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.exe
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.pdb
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Viewe\OneDrive\Documents\My Codes\Random\Random\EldenRingLevel1\EldenRingLevel1\obj\Debug\EldenRingLevel1.csproj.CopyComplete
