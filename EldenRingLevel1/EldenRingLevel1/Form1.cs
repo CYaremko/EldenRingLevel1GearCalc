@@ -467,6 +467,35 @@ namespace EldenRingLevel1
         {
             EquipmentChanged();
         }
+
+        private void UI_cbox_2hand_CheckedChanged(object sender, EventArgs e)
+        {
+            EquipmentChanged();
+        }
+
+        private void UI_cbox_Godrick_CheckedChanged(object sender, EventArgs e)
+        {
+            EquipmentChanged();
+        }
+
+        private void UI_btn_reset_Click(object sender, EventArgs e)
+        {
+            // unselect everything
+            UI_cbox_2hand.Checked = false;
+            UI_cbox_Common.Checked = false;
+            UI_cbox_Dex.Checked = false;
+            UI_cbox_fai.Checked = false;
+            UI_cbox_int.Checked = false;
+            UI_cbox_Str.Checked = false;
+            UI_cbox_Godrick.Checked = false;
+            UI_cbox_All.Checked = false;
+
+            UI_cbox_Helmets.SelectedIndex = 0;
+            foreach (var cbox in UI_gbox_talis.Controls.OfType<ComboBox>())
+            {
+                cbox.SelectedIndex = 0;
+            }
+        }
         #endregion
 
         #region DGV Styling
@@ -551,6 +580,15 @@ namespace EldenRingLevel1
             if (UI_cbox_fai.Checked) { Fai += 10; }
             if (UI_cbox_Str.Checked) { Str += 10; }
             if (UI_cbox_int.Checked) { Int += 10; }
+
+            // godrick's great rune +5 to all stats
+            if (UI_cbox_Godrick.Checked)
+            {
+                Vig += 5; Mind += 5; End += 5; Str += 5; Dex += 5; Int += 5; Fai += 5; Arc += 5;
+            }
+
+            // 1.5 x to strength
+            if (UI_cbox_2hand.Checked) { Str = (Str * 3 / 2); }
 
             // if the view all is checked... everything 99
             if (UI_cbox_All.Checked)
